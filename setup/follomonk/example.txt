@@ -1,0 +1,1604 @@
+Array
+(
+    [0] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => macklemore
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [1] => TwitterAccount Object
+        (
+            [name] =>                                          mattoninternet.jpg                                      
+            [account] => MattBennett
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [2] => TwitterAccount Object
+        (
+            [name] =>                                          HIP HOP FACTS                                      
+            [account] => OnlyHipHopFacts
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [3] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore [PROMO]                                      
+            [account] => MacklemorePROMO
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [4] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => ltsMacklemore
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [5] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => _Macklemore
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [6] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => iRealMacklemore
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [7] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => MacklemoreNet
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [8] => TwitterAccount Object
+        (
+            [name] =>                                          sabrina                                      
+            [account] => sellymxliksti24
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [9] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore News                                      
+            [account] => MacklemoreHQ
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [10] => TwitterAccount Object
+        (
+            [name] =>                                          boy.                                      
+            [account] => isorrisidimack
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [11] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => lamMackIemore
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [12] => TwitterAccount Object
+        (
+            [name] =>                                          Ray Dalton                                      
+            [account] => RayDaltonMusic
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [13] => TwitterAccount Object
+        (
+            [name] =>                                          Wanz                                      
+            [account] => teewanz
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [14] => TwitterAccount Object
+        (
+            [name] =>                                          JONESY™                                      
+            [account] => JUST_THIS_KID
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [15] => TwitterAccount Object
+        (
+            [name] =>                                          +                                      
+            [account] => myloxylovato
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [16] => TwitterAccount Object
+        (
+            [name] =>                                          Eraayyy                                      
+            [account] => BirTenqri
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [17] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => benmacklamore
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [18] => TwitterAccount Object
+        (
+            [name] =>                                          here a problem.                                      
+            [account] => beyoubiebs
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [19] => TwitterAccount Object
+        (
+            [name] =>                                          MusiccisuM                                      
+            [account] => CagedLyrics
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [20] => TwitterAccount Object
+        (
+            [name] =>                                          spierdolia                                      
+            [account] => xbeausextapes
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [21] => TwitterAccount Object
+        (
+            [name] =>                                          PLS FOLLOW ME JUSTIN                                      
+            [account] => ourbelievemovie
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [22] => TwitterAccount Object
+        (
+            [name] =>                                          Osman ŞİNKİL                                      
+            [account] => osmnsnkll
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [23] => TwitterAccount Object
+        (
+            [name] =>                                          NICOTINA                                      
+            [account] => Schweinstigrer
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [24] => TwitterAccount Object
+        (
+            [name] =>                                          Desterminador                                      
+            [account] => llamaloconA
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [25] => TwitterAccount Object
+        (
+            [name] =>                                          Warner Music Germany                                      
+            [account] => warnermusicde
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [26] => TwitterAccount Object
+        (
+            [name] =>                                          shannon                                      
+            [account] => shan_am_i
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [27] => TwitterAccount Object
+        (
+            [name] =>                                          macklemore.                                      
+            [account] => maliksharibo
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [28] => TwitterAccount Object
+        (
+            [name] =>                                          Owuor Arunga                                      
+            [account] => Owuorobi
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [29] => TwitterAccount Object
+        (
+            [name] =>                                          Chu Marcene                                      
+            [account] => ChuMarcene
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [30] => TwitterAccount Object
+        (
+            [name] =>                                          arabella                                      
+            [account] => SoProudOfLovato
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [31] => TwitterAccount Object
+        (
+            [name] =>                                          92 dni do wakacji                                      
+            [account] => ciastko_karmel_
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [32] => TwitterAccount Object
+        (
+            [name] =>                                          adrii                                      
+            [account] => adricf95
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [33] => TwitterAccount Object
+        (
+            [name] =>                                          Cansu Oluk                                      
+            [account] => heeycoorrc
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [34] => TwitterAccount Object
+        (
+            [name] =>                                          Chloe                                      
+            [account] => chloe___hannah
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [35] => TwitterAccount Object
+        (
+            [name] =>                                          E.                                      
+            [account] => tambiANGARALI
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [36] => TwitterAccount Object
+        (
+            [name] =>                                          FSOG                                      
+            [account] => therushgrey
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [37] => TwitterAccount Object
+        (
+            [name] =>                                          Mack                                      
+            [account] => sfgsleader
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [38] => TwitterAccount Object
+        (
+            [name] =>                                          Baran                                      
+            [account] => AvcBaranFb
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [39] => TwitterAccount Object
+        (
+            [name] =>                                          Diva.                                      
+            [account] => Naaiara20
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [40] => TwitterAccount Object
+        (
+            [name] =>                                          Nie na stole, Larry!                                      
+            [account] => PolskaStylinson
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [41] => TwitterAccount Object
+        (
+            [name] =>                                          ✖Jordi✖                                      
+            [account] => Av3rag3Pr1ck
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [42] => TwitterAccount Object
+        (
+            [name] =>                                          17DaysWorkout                                      
+            [account] => roogowska
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [43] => TwitterAccount Object
+        (
+            [name] =>                                          ultraviolence                                      
+            [account] => Carolina_Aneta
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [44] => TwitterAccount Object
+        (
+            [name] =>                                          crau                                      
+            [account] => FrdClaudia
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [45] => TwitterAccount Object
+        (
+            [name] =>                                          Here's To Never Grow                                      
+            [account] => RamonaDestiny
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [46] => TwitterAccount Object
+        (
+            [name] =>                                          $heeran's cupcake! ♥                                      
+            [account] => iWantBooBear
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [47] => TwitterAccount Object
+        (
+            [name] =>                                          Matty Moore                                      
+            [account] => _MattyTrump
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [48] => TwitterAccount Object
+        (
+            [name] =>                                          weloveyouzayn                                      
+            [account] => xharrysfeet
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [49] => TwitterAccount Object
+        (
+            [name] =>                                          lanabanana                                      
+            [account] => WaitingAConcert
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [50] => TwitterAccount Object
+        (
+            [name] =>                                          Alexa.                                      
+            [account] => bieeebeeerr
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [51] => TwitterAccount Object
+        (
+            [name] =>                                          •                                      
+            [account] => mac_le_mort
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [52] => TwitterAccount Object
+        (
+            [name] =>                                          diana.                                      
+            [account] => _DianaHoran_
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [53] => TwitterAccount Object
+        (
+            [name] =>                                          Mini-B                                      
+            [account] => DJMiniB
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [54] => TwitterAccount Object
+        (
+            [name] =>                                          Sk8-Wi                                      
+            [account] => granmanolete
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [55] => TwitterAccount Object
+        (
+            [name] =>                                          macklemore.                                      
+            [account] => asdfgh_you
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [56] => TwitterAccount Object
+        (
+            [name] =>                                          ✿азалия✿                                      
+            [account] => acelyakpinar
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [57] => TwitterAccount Object
+        (
+            [name] =>                                          ☆ R A F A E L L ☆ ツ                                      
+            [account] => Raphaello44
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [58] => TwitterAccount Object
+        (
+            [name] =>                                          Adri.                                      
+            [account] => wingsssss_
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [59] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore ❤                                      
+            [account] => FaithfulToBiebs
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [60] => TwitterAccount Object
+        (
+            [name] =>                                          ♡                                      
+            [account] => _wantohugthem
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [61] => TwitterAccount Object
+        (
+            [name] =>                                          Avacalhar. ™                                      
+            [account] => onecigarrette
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [62] => TwitterAccount Object
+        (
+            [name] =>                                          © уσѕѕєℓιєη                                      
+            [account] => yosselien
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [63] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore.™                                      
+            [account] => macklemore_wing
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [64] => TwitterAccount Object
+        (
+            [name] =>                                          •Lixaaaaaa•™                                      
+            [account] => LIXAALZATE
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [65] => TwitterAccount Object
+        (
+            [name] =>                                          ₪ ø lll ·o.                                      
+            [account] => VasqueFangirl
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [66] => TwitterAccount Object
+        (
+            [name] =>                                          Macklemore                                      
+            [account] => i0hmypayne
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [67] => TwitterAccount Object
+        (
+            [name] =>                                          Batuhan Bayram                                      
+            [account] => eLated42
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [68] => TwitterAccount Object
+        (
+            [name] =>                                          JoAnna.E                                      
+            [account] => Joanna_Eko
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [69] => TwitterAccount Object
+        (
+            [name] =>                                          Futbol Aşığı ♥                                      
+            [account] => _Neuer01_
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [70] => TwitterAccount Object
+        (
+            [name] =>                                          maria.✌                                      
+            [account] => itsniallhug
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [71] => TwitterAccount Object
+        (
+            [name] =>                                          czapka wpierdolka.                                      
+            [account] => sassyrihx
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [72] => TwitterAccount Object
+        (
+            [name] =>                                          Víctor Ventura Muñoz                                      
+            [account] => victorventura28
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [73] => TwitterAccount Object
+        (
+            [name] =>                                          Dañiela.                                      
+            [account] => EpaDaniela
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [74] => TwitterAccount Object
+        (
+            [name] =>                                          ♡ Victoria ♡                                      
+            [account] => toraa2205_xoxo
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+)
+Array
+(
+    [0] => TwitterAccount Object
+        (
+            [name] =>                                          Geek Girl Brunch                                      
+            [account] => GeekGirlBrunch
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [1] => TwitterAccount Object
+        (
+            [name] =>                                          Geek Artiste                                      
+            [account] => DaDamnGeek
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [2] => TwitterAccount Object
+        (
+            [name] =>                                          Geek                                      
+            [account] => Geek980
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [3] => TwitterAccount Object
+        (
+            [name] =>                                          Avant Geek                                      
+            [account] => heartsparks
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [4] => TwitterAccount Object
+        (
+            [name] =>                                          Geeks Union                                      
+            [account] => geeksunion
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [5] => TwitterAccount Object
+        (
+            [name] =>                                          Big Damn TV Geek                                      
+            [account] => bigdamntvgeek
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [6] => TwitterAccount Object
+        (
+            [name] =>                                          Geek Treks                                      
+            [account] => GeekTreks
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [7] => TwitterAccount Object
+        (
+            [name] =>                                          Geek                                      
+            [account] => ExtraGeeked
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [8] => TwitterAccount Object
+        (
+            [name] =>                                          Geek in Gucci                                      
+            [account] => GeekInGucci
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [9] => TwitterAccount Object
+        (
+            [name] =>                                          Garden State Geek                                      
+            [account] => GardenStateGeek
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+)
+Array
+(
+    [0] => TwitterAccount Object
+        (
+            [name] =>                                          Laura Walker                                      
+            [account] => laurawalker86
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [1] => TwitterAccount Object
+        (
+            [name] =>                                          Music News                                      
+            [account] => Music_CodeCeleb
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [2] => TwitterAccount Object
+        (
+            [name] =>                                          bridget lee huhn                                      
+            [account] => angelicsong
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [3] => TwitterAccount Object
+        (
+            [name] =>                                          .MUSIC (dotMusic)                                      
+            [account] => musicextension
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [4] => TwitterAccount Object
+        (
+            [name] =>                                          Craig Reynolds                                      
+            [account] => MySuperWebDeals
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [5] => TwitterAccount Object
+        (
+            [name] =>                                          CTannStarr                                      
+            [account] => CTannStarr
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [6] => TwitterAccount Object
+        (
+            [name] =>                                          Janifer Cheng                                      
+            [account] => janifer
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [7] => TwitterAccount Object
+        (
+            [name] =>                                          Co☯cHi3 B0i [the 1]                                      
+            [account] => CoOcHi3B0i
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [8] => TwitterAccount Object
+        (
+            [name] =>                                          JONN McKEE                                      
+            [account] => new_clear_DAZE
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [9] => TwitterAccount Object
+        (
+            [name] =>                                          Charley Marion                                      
+            [account] => CharleyMarion
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [10] => TwitterAccount Object
+        (
+            [name] =>                                          Panafrica Music Gnom                                      
+            [account] => PanAfricawort
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [11] => TwitterAccount Object
+        (
+            [name] =>                                          Jazmae Music LABEL                                      
+            [account] => JazmaeBass
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [12] => TwitterAccount Object
+        (
+            [name] =>                                          mlivemusic                                      
+            [account] => mlivemusic
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [13] => TwitterAccount Object
+        (
+            [name] =>                                          SJ Tucker                                      
+            [account] => s00j
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [14] => TwitterAccount Object
+        (
+            [name] =>                                          Cielo Morena                                      
+            [account] => CMorenaOfficial
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [15] => TwitterAccount Object
+        (
+            [name] =>                                          USA TODAY Music                                      
+            [account] => usatodaymusic
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [16] => TwitterAccount Object
+        (
+            [name] =>                                          Bart Baron                                      
+            [account] => BartBaron
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [17] => TwitterAccount Object
+        (
+            [name] =>                                          Jacob W. Haller                                      
+            [account] => jwghaller
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [18] => TwitterAccount Object
+        (
+            [name] =>                                          WF[102] Records™                                      
+            [account] => WF102
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [19] => TwitterAccount Object
+        (
+            [name] =>                                          GILBERTO RIVERA                                      
+            [account] => GILGILCHRISTIAN
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [20] => TwitterAccount Object
+        (
+            [name] =>                                          Music&ArtsConnection                                      
+            [account] => MusicArtConnect
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [21] => TwitterAccount Object
+        (
+            [name] =>                                          Alex Lara                                      
+            [account] => FYLTHPIG
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [22] => TwitterAccount Object
+        (
+            [name] =>                                          Virgina Shavers                                      
+            [account] => VirginaShavers
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [23] => TwitterAccount Object
+        (
+            [name] =>                                          Jaimie Dawson                                      
+            [account] => BritSpears114
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [24] => TwitterAccount Object
+        (
+            [name] =>                                          Gordon Schacher                                      
+            [account] => GordonSchacher
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [25] => TwitterAccount Object
+        (
+            [name] =>                                          Roderick Dorman                                      
+            [account] => RoderickDorman
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [26] => TwitterAccount Object
+        (
+            [name] =>                                          Nola Luther                                      
+            [account] => NolaLuther
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [27] => TwitterAccount Object
+        (
+            [name] =>                                          Schantel Thomas                                      
+            [account] => schanthomas
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [28] => TwitterAccount Object
+        (
+            [name] =>                                          QuaShawna                                      
+            [account] => QuaShawna
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [29] => TwitterAccount Object
+        (
+            [name] =>                                          Yahaira Perlaza                                      
+            [account] => yahairaperlaza
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [30] => TwitterAccount Object
+        (
+            [name] =>                                          Music Spark                                      
+            [account] => MusicSpx
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [31] => TwitterAccount Object
+        (
+            [name] =>                                          .MUSIC (DotMusic)                                      
+            [account] => mus
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [32] => TwitterAccount Object
+        (
+            [name] =>                                          Vasiliki Parodi                                      
+            [account] => VasilikiParodi
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [33] => TwitterAccount Object
+        (
+            [name] =>                                          Abby Mika                                      
+            [account] => abbymika25
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [34] => TwitterAccount Object
+        (
+            [name] =>                                          DUBLINE RECORDS                                      
+            [account] => DUBLINE_RECORDS
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [35] => TwitterAccount Object
+        (
+            [name] =>                                          Shawnda Peirce                                      
+            [account] => OrlandoPeirce
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [36] => TwitterAccount Object
+        (
+            [name] =>                                          Aaron Burns                                      
+            [account] => Californos
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [37] => TwitterAccount Object
+        (
+            [name] =>                                          DynamicDestony/TonyC                                      
+            [account] => dynamicdestony
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [38] => TwitterAccount Object
+        (
+            [name] =>                                          Madelyne Porter                                      
+            [account] => musicMADZ
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [39] => TwitterAccount Object
+        (
+            [name] =>                                          NMJava                                      
+            [account] => NMJava
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [40] => TwitterAccount Object
+        (
+            [name] =>                                          Dreamchaser Est.1989                                      
+            [account] => SayshaFawn
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [41] => TwitterAccount Object
+        (
+            [name] =>                                          TorchMusic                                      
+            [account] => Torch_Music
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [42] => TwitterAccount Object
+        (
+            [name] =>                                          *FOLLOW US* The Cog*                                      
+            [account] => elofan0
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [43] => TwitterAccount Object
+        (
+            [name] =>                                          Rho                                      
+            [account] => RhoTunes
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [44] => TwitterAccount Object
+        (
+            [name] =>                                          Jennifer Phillips                                      
+            [account] => phillipsjennie
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [45] => TwitterAccount Object
+        (
+            [name] =>                                          Sherwood Shawver                                      
+            [account] => SherwoodShawver
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [46] => TwitterAccount Object
+        (
+            [name] =>                                          KAMIKAMI【フェライト】                                      
+            [account] => fairylight4
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [47] => TwitterAccount Object
+        (
+            [name] =>                                          Nathan Morrissey                                      
+            [account] => MrMorrisseyTC
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [48] => TwitterAccount Object
+        (
+            [name] =>                                          CHEZ                                      
+            [account] => UDTLLC
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [49] => TwitterAccount Object
+        (
+            [name] =>                                          Mr. Metasen                                      
+            [account] => mrmetasen
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [50] => TwitterAccount Object
+        (
+            [name] =>                                          JALEBI Music                                      
+            [account] => JALEBI_Music
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [51] => TwitterAccount Object
+        (
+            [name] =>                                          CYBMEDINA                                      
+            [account] => TINAB24U
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [52] => TwitterAccount Object
+        (
+            [name] =>                                          Tann Starr                                      
+            [account] => TannStarr
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [53] => TwitterAccount Object
+        (
+            [name] =>                                          Skully Skullbones                                      
+            [account] => SkullyScarZ
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [54] => TwitterAccount Object
+        (
+            [name] =>                                          Rosalind Quarles                                      
+            [account] => ourepic
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [55] => TwitterAccount Object
+        (
+            [name] =>                                          Kim Ayrie Morris                                      
+            [account] => Gr8Shiva
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [56] => TwitterAccount Object
+        (
+            [name] =>                                          Erin                                      
+            [account] => OSUmusicpub
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [57] => TwitterAccount Object
+        (
+            [name] =>                                          Maria D'Luz                                      
+            [account] => Dulcemariaglz
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [58] => TwitterAccount Object
+        (
+            [name] =>                                          Android Circus                                      
+            [account] => CGVANHOUTTE
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+    [59] => TwitterAccount Object
+        (
+            [name] =>                                          ClubChaos                                      
+            [account] => ClubChaos
+            [tweets] => 
+            [following] => 
+            [followers] => 
+            [days_old] => 
+            [social_authority] => 
+        )
+
+)
